@@ -1,7 +1,7 @@
 .nav-container {
     min-width: 100%;
     height: 60px;
-    position: absolute;
+    position: sticky;
     left: 0;
     top: 0;
     display: flex;
