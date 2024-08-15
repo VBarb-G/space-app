@@ -1,0 +1,14 @@
+.about {
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.profilephoto {
+    width: 50%;
+    height: 50%;
+    border-radius: 70%;
+    object-fit: cover;
+}
